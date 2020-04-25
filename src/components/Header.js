@@ -26,36 +26,24 @@ export default class Header extends Component {
               <i className="fa fa-bars" aria-hidden="true"></i>
             </button>
             <div className="collapse navbar-collapse" id="navbarResponsive">
-              <ul className="navbar-nav ml-auto">
-                <li className="active nav-item">
-                  <a className="nav-link smooth-scroll" href="#">
+              <ul style={{color: "#fff"}} className="navbar-nav ml-auto">
+                <li style={{"padding-right": "10px"}}className="active nav-item">
                     WELCOME{" "}
-                  </a>
-                </li>
-                <li className="active nav-item">
-                  <a className="nav-link smooth-scroll" href="#">
+                  </li>
+                <li style={{"padding-right": "10px"}} className="active nav-item">
                     ABOUT US
-                  </a>
-                </li>
-                <li className="active nav-item">
-                  <a className="nav-link smooth-scroll" href="#">
+                   </li>
+                <li style={{"padding-right": "10px"}}className="active nav-item">
                     SPECIALITIES
-                  </a>
                 </li>
-                <li className="active nav-item">
-                  <a className="nav-link smooth-scroll" href="#">
+                <li  style={{"padding-right": "10px"}} className="active nav-item">
                     MENU
-                  </a>
                 </li>
-                <li className="active nav-item">
-                  <a className="nav-link" href="#">
+                <li  style={{"padding-right": "10px"}}  className="active nav-item">
                     RESERVATION TABLE
-                  </a>
                 </li>
-                <li className="active nav-item">
-                  <a className="nav-link" href="#">
+                <li  style={{"padding-right": "10px"}} className="active nav-item">
                    CONTACT US
-                  </a>
                 </li>
               </ul>
             </div>
