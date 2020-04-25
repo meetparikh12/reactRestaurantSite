@@ -23,7 +23,7 @@ export default class Specialities extends Component {
                       Laboriosam pariatur modi praesentium deleniti molestiae
                       officiis atque numquam.
                     </p>
-                    <p className="price">$20.99</p>
+                    <p className="price">Rs. 250</p>
                   </div>
                 </div>
                 <div
@@ -37,7 +37,7 @@ export default class Specialities extends Component {
                       Laboriosam pariatur modi praesentium deleniti molestiae
                       officiis atque numquam.
                     </p>
-                    <p className="price">$19.99</p>
+                    <p className="price">Rs. 350</p>
                   </div>
                 </div>
                 <div
@@ -54,7 +54,7 @@ export default class Specialities extends Component {
                       Laboriosam pariatur modi praesentium deleniti molestiae
                       officiis atque numquam.
                     </p>
-                    <p className="price">$20.99</p>
+                    <p className="price">Rs. 150</p>
                   </div>
                 </div>
               </div>
@@ -73,7 +73,7 @@ export default class Specialities extends Component {
                       Laboriosam pariatur modi praesentium deleniti molestiae
                       officiis atque numquam.
                     </p>
-                    <p className="price">$32.99</p>
+                    <p className="price">Rs. 360</p>
                   </div>
                 </div>
                 <div
@@ -88,7 +88,7 @@ export default class Specialities extends Component {
                       Laboriosam pariatur modi praesentium deleniti molestiae
                       officiis atque numquam.
                     </p>
-                    <p className="price">$25.99</p>
+                    <p className="price">Rs. 400</p>
                   </div>
                 </div>
                 <div
@@ -102,7 +102,7 @@ export default class Specialities extends Component {
                       Laboriosam pariatur modi praesentium deleniti molestiae
                       officiis atque numquam.
                     </p>
-                    <p className="price">$32.99</p>
+                    <p className="price">Rs. 330</p>
                   </div>
                 </div>
               </div>
