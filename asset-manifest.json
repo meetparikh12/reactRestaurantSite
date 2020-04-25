@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/reactRestaurantSite/static/css/main.1fdf49b4.chunk.css",
-    "main.js": "/reactRestaurantSite/static/js/main.1f738ae0.chunk.js",
-    "main.js.map": "/reactRestaurantSite/static/js/main.1f738ae0.chunk.js.map",
+    "main.css": "/reactRestaurantSite/static/css/main.36d35a93.chunk.css",
+    "main.js": "/reactRestaurantSite/static/js/main.ac438b20.chunk.js",
+    "main.js.map": "/reactRestaurantSite/static/js/main.ac438b20.chunk.js.map",
     "runtime-main.js": "/reactRestaurantSite/static/js/runtime-main.d6a21ee7.js",
     "runtime-main.js.map": "/reactRestaurantSite/static/js/runtime-main.d6a21ee7.js.map",
     "static/js/2.305d6d01.chunk.js": "/reactRestaurantSite/static/js/2.305d6d01.chunk.js",
     "static/js/2.305d6d01.chunk.js.map": "/reactRestaurantSite/static/js/2.305d6d01.chunk.js.map",
     "index.html": "/reactRestaurantSite/index.html",
-    "precache-manifest.154c74330ea4377d54159986472ba992.js": "/reactRestaurantSite/precache-manifest.154c74330ea4377d54159986472ba992.js",
+    "precache-manifest.0699d53b184ae44283a17b892cb9c3df.js": "/reactRestaurantSite/precache-manifest.0699d53b184ae44283a17b892cb9c3df.js",
     "service-worker.js": "/reactRestaurantSite/service-worker.js",
-    "static/css/main.1fdf49b4.chunk.css.map": "/reactRestaurantSite/static/css/main.1fdf49b4.chunk.css.map",
+    "static/css/main.36d35a93.chunk.css.map": "/reactRestaurantSite/static/css/main.36d35a93.chunk.css.map",
     "static/js/2.305d6d01.chunk.js.LICENSE.txt": "/reactRestaurantSite/static/js/2.305d6d01.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/reactRestaurantSite/static/media/market.a9a75cdd.jpg",
+    "static/media/App.css": "/reactRestaurantSite/static/media/market.df6cddeb.jpg",
     "static/media/img_square_1.jpg": "/reactRestaurantSite/static/media/img_square_1.dfad2e00.jpg",
     "static/media/img_square_2.jpg": "/reactRestaurantSite/static/media/img_square_2.45ed6f03.jpg",
     "static/media/img_square_3.jpg": "/reactRestaurantSite/static/media/img_square_3.278cde59.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.d6a21ee7.js",
     "static/js/2.305d6d01.chunk.js",
-    "static/css/main.1fdf49b4.chunk.css",
-    "static/js/main.1f738ae0.chunk.js"
+    "static/css/main.36d35a93.chunk.css",
+    "static/js/main.ac438b20.chunk.js"
   ]
 }
