@@ -4,9 +4,10 @@ export default class Specialities extends Component {
   render() {
     return (
       <section className="probootstrap-section bg1-pattern">
-        <h2 className="tit2 t-center">Discover</h2>
-
-        <h3 className="tit3 t-center m-b-35 m-t-5">OUR SPECIALTIES</h3>
+        <div class="probootstrap-heading text-center dark" style={{"padding-top": "5%"}}>
+          <h1 class="primary-heading tit2 font-change-menu">Discover</h1>
+          <h3 class="secondary-heading font-change" style={{color: "#000"}}>Our Specialities</h3>
+          </div>
         <div className="container" style={{ marginTop: "170px" }}>
           <div className="row">
             <div className="probootstrap-cell-retro">

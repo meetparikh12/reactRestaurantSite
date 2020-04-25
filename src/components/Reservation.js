@@ -6,9 +6,10 @@ export default class Reservation extends Component {
       <div className="Reservation ">
         <section className="probootstrap-section probootstrap-bg-white">
           <div className="container">
-            <h2 class="tit2 t-center">Reservation</h2>
-
-            <h3 class="tit3 t-center pb-5">BOOK TABLE</h3>
+            <div class="probootstrap-heading text-center dark" style={{"padding-top": "0%"}}>
+              <h1 class="primary-heading tit2 font-change-menu">Discover</h1>
+              <h3 class="secondary-heading font-change" style={{color: "#000"}}>Reservation Table</h3>
+              </div>
             <div className="row">
               <div className="col-md-12 probootstrap-animate">
                 <form method="post" className="probootstrap-form">
