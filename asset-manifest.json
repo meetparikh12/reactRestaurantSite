@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/reactRestaurantSite/static/css/main.1fdf49b4.chunk.css",
+    "main.js": "/reactRestaurantSite/static/js/main.1f738ae0.chunk.js",
+    "main.js.map": "/reactRestaurantSite/static/js/main.1f738ae0.chunk.js.map",
+    "runtime-main.js": "/reactRestaurantSite/static/js/runtime-main.d6a21ee7.js",
+    "runtime-main.js.map": "/reactRestaurantSite/static/js/runtime-main.d6a21ee7.js.map",
+    "static/js/2.305d6d01.chunk.js": "/reactRestaurantSite/static/js/2.305d6d01.chunk.js",
+    "static/js/2.305d6d01.chunk.js.map": "/reactRestaurantSite/static/js/2.305d6d01.chunk.js.map",
+    "index.html": "/reactRestaurantSite/index.html",
+    "precache-manifest.154c74330ea4377d54159986472ba992.js": "/reactRestaurantSite/precache-manifest.154c74330ea4377d54159986472ba992.js",
+    "service-worker.js": "/reactRestaurantSite/service-worker.js",
+    "static/css/main.1fdf49b4.chunk.css.map": "/reactRestaurantSite/static/css/main.1fdf49b4.chunk.css.map",
+    "static/js/2.305d6d01.chunk.js.LICENSE.txt": "/reactRestaurantSite/static/js/2.305d6d01.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactRestaurantSite/static/media/market.a9a75cdd.jpg",
+    "static/media/img_square_1.jpg": "/reactRestaurantSite/static/media/img_square_1.dfad2e00.jpg",
+    "static/media/img_square_2.jpg": "/reactRestaurantSite/static/media/img_square_2.45ed6f03.jpg",
+    "static/media/img_square_3.jpg": "/reactRestaurantSite/static/media/img_square_3.278cde59.jpg",
+    "static/media/img_square_4.jpg": "/reactRestaurantSite/static/media/img_square_4.4b84131d.jpg",
+    "static/media/img_square_5.jpg": "/reactRestaurantSite/static/media/img_square_5.018cd4dd.jpg",
+    "static/media/landing1.png": "/reactRestaurantSite/static/media/landing1.e0b7cf38.png",
+    "static/media/landing2.png": "/reactRestaurantSite/static/media/landing2.0721c804.png",
+    "static/media/landing3.png": "/reactRestaurantSite/static/media/landing3.ac51732a.png",
+    "static/media/landing4.png": "/reactRestaurantSite/static/media/landing4.1d7b2170.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6a21ee7.js",
+    "static/js/2.305d6d01.chunk.js",
+    "static/css/main.1fdf49b4.chunk.css",
+    "static/js/main.1f738ae0.chunk.js"
+  ]
+}
