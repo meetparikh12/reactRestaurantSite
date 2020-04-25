@@ -28,32 +28,32 @@ export default class Header extends Component {
             <div className="collapse navbar-collapse" id="navbarResponsive">
               <ul className="navbar-nav ml-auto">
                 <li className="active nav-item">
-                  <a className="nav-link smooth-scroll" href="index.html">
+                  <a className="nav-link smooth-scroll" href="">
                     WELCOME{" "}
                   </a>
                 </li>
                 <li className="active nav-item">
-                  <a className="nav-link smooth-scroll" href="index.html">
+                  <a className="nav-link smooth-scroll" href="">
                     ABOUT US
                   </a>
                 </li>
                 <li className="active nav-item">
-                  <a className="nav-link smooth-scroll" href="index.html">
+                  <a className="nav-link smooth-scroll" href="">
                     SPECIALITIES
                   </a>
                 </li>
                 <li className="active nav-item">
-                  <a className="nav-link smooth-scroll" href="index.html">
+                  <a className="nav-link smooth-scroll" href="">
                     MENU
                   </a>
                 </li>
                 <li className="active nav-item">
-                  <a className="nav-link" href="index.html">
+                  <a className="nav-link" href="">
                     RESERVATION TABLE
                   </a>
                 </li>
                 <li className="active nav-item">
-                  <a className="nav-link" href="index.html">
+                  <a className="nav-link" href="">
                    CONTACT US
                   </a>
                 </li>
